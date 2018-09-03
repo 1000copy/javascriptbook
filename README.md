@@ -1,1 +1,1 @@
-# javascriptbook
+# javascript

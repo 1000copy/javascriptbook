@@ -29,6 +29,7 @@ username代码，取得它的同步代码即可。不复杂。测试需要跨平
 array-slice https://github.com/jonschlinkert/array-slice/blob/master/index.js ,稍微改变，就比较合适。
 
 还是字符串的最好。pad-left，曾经很大争议的一个库。https://github.com/jonschlinkert/pad-left/blob/master/index.js
+嗯，pad-left还使用了这个 ： https://github.com/jonschlinkert/repeat-string/blob/master/index.js
 
 具体工具罗列如下：
 1. Git
